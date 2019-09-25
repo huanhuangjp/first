@@ -3,11 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://huanhuangjp.github.io/first/categories/</loc>
+    <loc>https://huanhuangjp.github.io/first/</loc>
+    <lastmod>2019-09-25T17:32:09+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://huanhuangjp.github.io/first/</loc>
+    <loc>https://huanhuangjp.github.io/first/posts/my-second-post/</loc>
+    <lastmod>2019-09-25T17:32:09+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://huanhuangjp.github.io/first/posts/</loc>
+    <lastmod>2019-09-25T17:32:09+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://huanhuangjp.github.io/first/posts/my-first-post/</loc>
+    <lastmod>2019-09-25T16:49:37+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://huanhuangjp.github.io/first/categories/</loc>
   </url>
   
   <url>
